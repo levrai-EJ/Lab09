@@ -1,0 +1,37 @@
+﻿@page "/"
+@using Lab09.Web.Services
+
+<h3>Translator (French)</h3>
+<p>This website translates English into French.</p>
+
+<div style="display:flex; gap:.5rem; margin-top:10px;">
+    <input @bind="userInput" placeholder="Type something in English" style="flex:1;" />
+    <button @onclick="AskAsync">Ask AI</button>
+</div>
+
+@if (!string.IsNullOrWhiteSpace(aiResponse))
+{
+    <div style="margin-top:10px; border:1px solid #ccc; padding:10px;">
+        <b>AI Response:</b>
+        <div>@aiResponse</div>
+    </div>
+}
+
+@code {
+    IAiService _ai = new FakeAIService();
+
+    string userInput = "";
+    string aiResponse = "";
+
+    async Task AskAsync()
+    {
+        aiResponse = "Loading AI Response";
+
+        string message = "Translate the following into French:\n\n" + userInput;
+
+        string result = await _ai.SendMessageAsync(message);
+        aiResponse = result;
+
+        await InvokeAsync(StateHasChanged);
+    }
+}
