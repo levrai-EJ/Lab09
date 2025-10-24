@@ -10,10 +10,10 @@
 /Users/eastonearl/Lab09/Lab09.Web/bin/Debug/net9.0/wwwroot/_framework/icudt_CJK.tjcz0u77k5.dat
 /Users/eastonearl/Lab09/Lab09.Web/bin/Debug/net9.0/wwwroot/_framework/icudt_EFIGS.tptq2av103.dat
 /Users/eastonearl/Lab09/Lab09.Web/bin/Debug/net9.0/wwwroot/_framework/icudt_no_CJK.lfu7j35m59.dat
-/Users/eastonearl/Lab09/Lab09.Web/bin/Debug/net9.0/wwwroot/_framework/Lab09.Logic.7w320twkx5.pdb
-/Users/eastonearl/Lab09/Lab09.Web/bin/Debug/net9.0/wwwroot/_framework/Lab09.Logic.gf8finn5xe.wasm
-/Users/eastonearl/Lab09/Lab09.Web/bin/Debug/net9.0/wwwroot/_framework/Lab09.Web.uf1gorwvz2.pdb
-/Users/eastonearl/Lab09/Lab09.Web/bin/Debug/net9.0/wwwroot/_framework/Lab09.Web.po56zi9scv.wasm
+/Users/eastonearl/Lab09/Lab09.Web/bin/Debug/net9.0/wwwroot/_framework/Lab09.Logic.mdox6dmpvx.pdb
+/Users/eastonearl/Lab09/Lab09.Web/bin/Debug/net9.0/wwwroot/_framework/Lab09.Logic.dkyqrool0a.wasm
+/Users/eastonearl/Lab09/Lab09.Web/bin/Debug/net9.0/wwwroot/_framework/Lab09.Web.yiheyxlat7.pdb
+/Users/eastonearl/Lab09/Lab09.Web/bin/Debug/net9.0/wwwroot/_framework/Lab09.Web.sx46wk8p4k.wasm
 /Users/eastonearl/Lab09/Lab09.Web/bin/Debug/net9.0/wwwroot/_framework/Microsoft.AspNetCore.Authorization.z6jo10m0rd.wasm
 /Users/eastonearl/Lab09/Lab09.Web/bin/Debug/net9.0/wwwroot/_framework/Microsoft.AspNetCore.Components.Forms.ysqd97eroy.wasm
 /Users/eastonearl/Lab09/Lab09.Web/bin/Debug/net9.0/wwwroot/_framework/Microsoft.AspNetCore.Components.65wbz7t8mt.wasm
@@ -278,7 +278,7 @@
 /Users/eastonearl/Lab09/Lab09.Web/bin/Debug/net9.0/wwwroot/_framework/icudt_no_CJK.lfu7j35m59.dat.gz
 /Users/eastonearl/Lab09/Lab09.Web/bin/Debug/net9.0/wwwroot/_framework/System.Resources.ResourceManager.wnuh2itm6p.wasm.gz
 /Users/eastonearl/Lab09/Lab09.Web/bin/Debug/net9.0/wwwroot/_framework/System.Xml.XmlDocument.f5mxw77p55.wasm.gz
-/Users/eastonearl/Lab09/Lab09.Web/bin/Debug/net9.0/wwwroot/_framework/Lab09.Logic.gf8finn5xe.wasm.gz
+/Users/eastonearl/Lab09/Lab09.Web/bin/Debug/net9.0/wwwroot/_framework/Lab09.Logic.dkyqrool0a.wasm.gz
 /Users/eastonearl/Lab09/Lab09.Web/bin/Debug/net9.0/wwwroot/_framework/System.Diagnostics.Process.l981izxna8.wasm.gz
 /Users/eastonearl/Lab09/Lab09.Web/bin/Debug/net9.0/wwwroot/_framework/System.Runtime.Intrinsics.fl0j5j1zx7.wasm.gz
 /Users/eastonearl/Lab09/Lab09.Web/bin/Debug/net9.0/wwwroot/_framework/System.Threading.Tasks.Parallel.h8gpnxq5vh.wasm.gz
@@ -300,7 +300,7 @@
 /Users/eastonearl/Lab09/Lab09.Web/bin/Debug/net9.0/wwwroot/_framework/System.Resources.Writer.acirdtvt6w.wasm.gz
 /Users/eastonearl/Lab09/Lab09.Web/bin/Debug/net9.0/wwwroot/_framework/dotnet.runtime.js.map.gz
 /Users/eastonearl/Lab09/Lab09.Web/bin/Debug/net9.0/wwwroot/_framework/System.Collections.Concurrent.5fvwaxvav2.wasm.gz
-/Users/eastonearl/Lab09/Lab09.Web/bin/Debug/net9.0/wwwroot/_framework/Lab09.Web.uf1gorwvz2.pdb.gz
+/Users/eastonearl/Lab09/Lab09.Web/bin/Debug/net9.0/wwwroot/_framework/Lab09.Web.yiheyxlat7.pdb.gz
 /Users/eastonearl/Lab09/Lab09.Web/bin/Debug/net9.0/wwwroot/_framework/System.IO.MemoryMappedFiles.zooje8g5aa.wasm.gz
 /Users/eastonearl/Lab09/Lab09.Web/bin/Debug/net9.0/wwwroot/_framework/System.Runtime.Serialization.Xml.ovuyozhccx.wasm.gz
 /Users/eastonearl/Lab09/Lab09.Web/bin/Debug/net9.0/wwwroot/_framework/System.Drawing.9mhmorop86.wasm.gz
@@ -364,7 +364,7 @@
 /Users/eastonearl/Lab09/Lab09.Web/bin/Debug/net9.0/wwwroot/_framework/System.Transactions.8d5547kjzr.wasm.gz
 /Users/eastonearl/Lab09/Lab09.Web/bin/Debug/net9.0/wwwroot/_framework/System.Diagnostics.StackTrace.27nrla53gy.wasm.gz
 /Users/eastonearl/Lab09/Lab09.Web/bin/Debug/net9.0/wwwroot/_framework/Microsoft.AspNetCore.Components.WebAssembly.fi19frkgoe.wasm.gz
-/Users/eastonearl/Lab09/Lab09.Web/bin/Debug/net9.0/wwwroot/_framework/Lab09.Web.po56zi9scv.wasm.gz
+/Users/eastonearl/Lab09/Lab09.Web/bin/Debug/net9.0/wwwroot/_framework/Lab09.Web.sx46wk8p4k.wasm.gz
 /Users/eastonearl/Lab09/Lab09.Web/bin/Debug/net9.0/wwwroot/_framework/System.IO.Pipes.sh35t6rwuc.wasm.gz
 /Users/eastonearl/Lab09/Lab09.Web/bin/Debug/net9.0/wwwroot/_framework/Microsoft.Extensions.Logging.2h3t8m6coa.wasm.gz
 /Users/eastonearl/Lab09/Lab09.Web/bin/Debug/net9.0/wwwroot/_framework/System.ValueTuple.pdijy0cqrk.wasm.gz
@@ -396,7 +396,7 @@
 /Users/eastonearl/Lab09/Lab09.Web/bin/Debug/net9.0/wwwroot/_framework/System.Diagnostics.TraceSource.0ckdtqs5j7.wasm.gz
 /Users/eastonearl/Lab09/Lab09.Web/bin/Debug/net9.0/wwwroot/_framework/System.IO.FileSystem.AccessControl.9msxzk0hcw.wasm.gz
 /Users/eastonearl/Lab09/Lab09.Web/bin/Debug/net9.0/wwwroot/_framework/System.IO.IsolatedStorage.oxrgi7uywy.wasm.gz
-/Users/eastonearl/Lab09/Lab09.Web/bin/Debug/net9.0/wwwroot/_framework/Lab09.Logic.7w320twkx5.pdb.gz
+/Users/eastonearl/Lab09/Lab09.Web/bin/Debug/net9.0/wwwroot/_framework/Lab09.Logic.mdox6dmpvx.pdb.gz
 /Users/eastonearl/Lab09/Lab09.Web/bin/Debug/net9.0/wwwroot/_framework/System.Private.CoreLib.9ecf2cskpd.wasm.gz
 /Users/eastonearl/Lab09/Lab09.Web/bin/Debug/net9.0/wwwroot/_framework/System.Security.c9vlynrvax.wasm.gz
 /Users/eastonearl/Lab09/Lab09.Web/bin/Debug/net9.0/wwwroot/_framework/System.Xml.XPath.mknanixmgj.wasm.gz
@@ -638,6 +638,7 @@
 /Users/eastonearl/Lab09/Lab09.Web/obj/Debug/net9.0/Lab09.Web.AssemblyInfo.cs
 /Users/eastonearl/Lab09/Lab09.Web/obj/Debug/net9.0/Lab09.Web.csproj.CoreCompileInputs.cache
 /Users/eastonearl/Lab09/Lab09.Web/obj/Debug/net9.0/Lab09.Web.MvcApplicationPartsAssemblyInfo.cache
+/Users/eastonearl/Lab09/Lab09.Web/obj/Debug/net9.0/Lab09.Web.sourcelink.json
 /Users/eastonearl/Lab09/Lab09.Web/obj/Debug/net9.0/webcil/DotNetEnv.wasm
 /Users/eastonearl/Lab09/Lab09.Web/obj/Debug/net9.0/webcil/Microsoft.AspNetCore.Authorization.wasm
 /Users/eastonearl/Lab09/Lab09.Web/obj/Debug/net9.0/webcil/Microsoft.AspNetCore.Components.wasm
@@ -1100,11 +1101,11 @@
 /Users/eastonearl/Lab09/Lab09.Web/obj/Debug/net9.0/compressed/g634g7t866-tjcz0u77k5.gz
 /Users/eastonearl/Lab09/Lab09.Web/obj/Debug/net9.0/compressed/fx46i142i2-tptq2av103.gz
 /Users/eastonearl/Lab09/Lab09.Web/obj/Debug/net9.0/compressed/dqy7t2egin-lfu7j35m59.gz
-/Users/eastonearl/Lab09/Lab09.Web/obj/Debug/net9.0/compressed/dwgo7vfm6d-gf8finn5xe.gz
-/Users/eastonearl/Lab09/Lab09.Web/obj/Debug/net9.0/compressed/wf24gf3pac-7w320twkx5.gz
-/Users/eastonearl/Lab09/Lab09.Web/obj/Debug/net9.0/compressed/qyxaz7jgab-po56zi9scv.gz
-/Users/eastonearl/Lab09/Lab09.Web/obj/Debug/net9.0/compressed/hzxmml3vpt-uf1gorwvz2.gz
-/Users/eastonearl/Lab09/Lab09.Web/obj/Debug/net9.0/compressed/x27aa1a31l-k0io7g4s9q.gz
+/Users/eastonearl/Lab09/Lab09.Web/obj/Debug/net9.0/compressed/dwgo7vfm6d-dkyqrool0a.gz
+/Users/eastonearl/Lab09/Lab09.Web/obj/Debug/net9.0/compressed/wf24gf3pac-mdox6dmpvx.gz
+/Users/eastonearl/Lab09/Lab09.Web/obj/Debug/net9.0/compressed/qyxaz7jgab-sx46wk8p4k.gz
+/Users/eastonearl/Lab09/Lab09.Web/obj/Debug/net9.0/compressed/hzxmml3vpt-yiheyxlat7.gz
+/Users/eastonearl/Lab09/Lab09.Web/obj/Debug/net9.0/compressed/x27aa1a31l-6zgrjwxq12.gz
 /Users/eastonearl/Lab09/Lab09.Web/obj/Debug/net9.0/staticwebassets.build.json
 /Users/eastonearl/Lab09/Lab09.Web/obj/Debug/net9.0/staticwebassets.build.json.cache
 /Users/eastonearl/Lab09/Lab09.Web/obj/Debug/net9.0/staticwebassets.development.json
